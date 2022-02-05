@@ -1,0 +1,15 @@
+.main_conaner{
+    text-align: center;
+    position: relative;
+  
+}
+.innner_container{
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , 50%);
+}
